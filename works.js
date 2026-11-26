@@ -152,7 +152,51 @@
         { date: "2026-07-26", text: "製品版をリリース" }
       ]
     },
-
+    {
+      id: "finance-calculator",
+      name: "金融系電卓",
+      platform: "android",
+      status: "released",
+      kind: "ツール",
+      summary: "消費税・為替レート・利息など、お金まわりの計算をまとめてこなせる電卓アプリ。",
+      tags: ["電卓", "計算", "金融", "消費税", "税", "為替", "為替レート", "利息", "利子", "株", "株式", "ツール", "無料"],
+      description: [
+        "お金に関する計算を、これ1つでまとめて行える電卓アプリです。",
+        "ふつうの電卓としても使えるうえ、消費税や為替、利息の計算もすぐにできます。"
+      ],
+      features: [
+        "基本的な電卓機能",
+        "消費税の計算",
+        "為替レートの計算",
+        "利息の計算",
+        "ライトモード・ダークモードに対応"
+      ],
+      notes: [
+        "広告が表示されます。"
+      ],
+      price: "無料(広告あり)",
+      released: "2025-11-18",
+      updated: "2026-09-09",
+      icon: GP + "8_WNp5SCNby4iZHStWXMJ97zo946lFTI6sP6LH_WZ5PUbODPMOrqAY6thTYBOt8D8MCagZs_NYnnmgvpQuB4",
+      screenshots: [
+        GP + "EU06Y-bUkiSrtaXR0cloYjWcTFPXLhjwvb8e-JSXTXAr8ClRfRfXQTrLKbQHuL9XPraqZK0kHpaWLDR3s7GNppI",
+        GP + "4T_BxLkp7jZp-9IzDDje0H3CxZUqGEJ2CSg3f2uF4iGz13yt_P8BvKa2aQOLptC102YhtO-mXagPr-YZDYKHLQ",
+        GP + "hcyGSWdytoTiMrxruOX_cJ5MblFTiLyuB_w8EV9dncs7Nn9ps-mNvesd34zvLABm-MeJzqBfMHmp-SNF-1bazfM",
+        GP + "reAi1mJYk8_7RFMaKW37GGq0W6szhnJ8q-A0zsv5M2gfTmgPc2uyUMCr4dea8OhSeJBVYLq2p3vD8Ry7mjk0",
+        GP + "XU6_xaw1KNR_LnpqtEEsjW7D5Mrd0gPktgnc1ReTUKa537tiK9g_vVdFUyRNK4XY503G_U4vYo81Y2213qYs"
+      ],
+      links: [
+        { label: "Google Playで見る", url: "https://play.google.com/store/apps/details?id=made_by_oiro.re.a02_rerecalculatormax_for_oiro", kind: "store" }
+        { label: "プライバシーポリシー", url: "https://doc-hosting.flycricket.io/jin-rong-xi-dian-zhuo-privacy-policy/bd1f841b-c7cb-4785-8d4e-5a456457a181/privacy", kind: "privacy" }
+      ],
+      history: [
+        { date: "2026-09-09", text: "サイドバーの不具合を修正" },
+        { date: "2026-09-08", text: "edge-to-edge表示に対応、SDKレベルを更新、その他細かな仕様変更" },
+        { date: "2026-06-17", text: "一部機能を削除" },
+        { date: "2025-12-06", text: "為替レートの変換先にCNY・CADを追加、株式利益計算機能を追加、開発者支援の方法を拡充、内部コードを最適化" },
+        { date: "2025-11-04", text: "新テーマを追加、計算履歴の確認機能を追加、開発者支援ボタンを追加" }
+      ]
+    },
     /*---- Windowsソフト(開発中) ----*/
     {
       id: "win-order-management",
