@@ -186,7 +186,7 @@
         GP + "XU6_xaw1KNR_LnpqtEEsjW7D5Mrd0gPktgnc1ReTUKa537tiK9g_vVdFUyRNK4XY503G_U4vYo81Y2213qYs"
       ],
       links: [
-        { label: "Google Playで見る", url: "https://play.google.com/store/apps/details?id=made_by_oiro.re.a02_rerecalculatormax_for_oiro", kind: "store" }
+        { label: "Google Playで見る", url: "https://play.google.com/store/apps/details?id=made_by_oiro.re.a02_rerecalculatormax_for_oiro", kind: "store" },
         { label: "プライバシーポリシー", url: "https://doc-hosting.flycricket.io/jin-rong-xi-dian-zhuo-privacy-policy/bd1f841b-c7cb-4785-8d4e-5a456457a181/privacy", kind: "privacy" }
       ],
       history: [
